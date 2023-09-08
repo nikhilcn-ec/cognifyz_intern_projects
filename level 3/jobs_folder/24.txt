@@ -1,0 +1,3 @@
+company_name: CONNECTING2WORK
+required_skills: python,storage,django,testingtools,debugging
+more_info: https://www.timesjobs.com/job-detail/python-developer-connecting-2-work-thiruvananthapuram-5-to-10-yrs-jobid-Tebue__SLASH__8iTzVzpSvf__PLUS__uAgZw==&source=srp

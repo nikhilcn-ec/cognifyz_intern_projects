@@ -1,0 +1,3 @@
+company_name: youngmindstechnologysolutionspvtltd
+required_skills: python,html5,storage,javascript,security,django
+more_info: https://www.timesjobs.com/job-detail/python-developer-young-minds-technology-solutions-pvt-ltd-tirupati-0-to-3-yrs-jobid-NDA__SLASH__WwOTUCFzpSvf__PLUS__uAgZw==&source=srp

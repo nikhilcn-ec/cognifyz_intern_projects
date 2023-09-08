@@ -1,0 +1,3 @@
+company_name: InnOvatorWebSolutionsPvt.Ltd.
+required_skills: rest,python,django,webdeveloper,mysql,api
+more_info: https://www.timesjobs.com/job-detail/python-developer-innovator-web-solutions-pvt-ltd-mumbai-5-to-8-yrs-jobid-OO__SLASH__Qb2Q7MfpzpSvf__PLUS__uAgZw==&source=srp

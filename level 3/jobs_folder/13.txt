@@ -1,0 +1,3 @@
+company_name: day1technologies
+required_skills: rest,python,django,git,postgresql,sql,docker
+more_info: https://www.timesjobs.com/job-detail/python-developer-day1-technologies-bengaluru-bangalore-2-to-3-yrs-jobid-wnkkahyN0x9zpSvf__PLUS__uAgZw==&source=srp

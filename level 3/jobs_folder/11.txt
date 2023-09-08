@@ -1,0 +1,3 @@
+company_name: anicallsptyltd
+required_skills: projectmanagement,scheduling,talend,shellscripting,python,maintenance
+more_info: https://www.timesjobs.com/job-detail/python-kibana-anicalls-pty-ltd-mumbai-6-to-9-yrs-jobid-__PLUS__WsbETGrtABzpSvf__PLUS__uAgZw==&source=srp

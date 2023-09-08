@@ -1,0 +1,3 @@
+company_name: TandAHRSolutions
+required_skills: rest,python,github,nosql,sql,django,api,mongodb,soap
+more_info: https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-mohali-3-to-8-yrs-jobid-2bHodbQFBi1zpSvf__PLUS__uAgZw==&source=srp

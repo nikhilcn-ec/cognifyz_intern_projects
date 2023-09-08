@@ -1,0 +1,3 @@
+company_name: arttechnologyandsoftwareindiapvtltd
+required_skills: rest,python,database,django,api
+more_info: https://www.timesjobs.com/job-detail/python-developer-art-technology-and-software-india-pvt-ltd-cochin-kochi-ernakulam-2-to-3-yrs-jobid-M26lxDEd__PLUS__qtzpSvf__PLUS__uAgZw==&source=srp

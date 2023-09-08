@@ -1,0 +1,3 @@
+company_name: glanmanagementconsultancypvt.ltd.
+required_skills: python,rdbms,mysql,cloudcomputing,docker,sql
+more_info: https://www.timesjobs.com/job-detail/python-developer-glan-management-consultancy-pvt-ltd-noida-greater-noida-5-to-8-yrs-jobid-2yjhPFea__SLASH__AJzpSvf__PLUS__uAgZw==&source=srp
